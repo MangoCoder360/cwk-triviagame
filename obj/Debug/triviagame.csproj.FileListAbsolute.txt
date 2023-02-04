@@ -1,0 +1,6 @@
+/Users/reubenschiopu/Documents/CWK/triviagame/bin/Debug/triviagame.exe
+/Users/reubenschiopu/Documents/CWK/triviagame/bin/Debug/triviagame.pdb
+/Users/reubenschiopu/Documents/CWK/triviagame/obj/Debug/triviagame.csproj.AssemblyReference.cache
+/Users/reubenschiopu/Documents/CWK/triviagame/obj/Debug/triviagame.csproj.CoreCompileInputs.cache
+/Users/reubenschiopu/Documents/CWK/triviagame/obj/Debug/triviagame.exe
+/Users/reubenschiopu/Documents/CWK/triviagame/obj/Debug/triviagame.pdb
